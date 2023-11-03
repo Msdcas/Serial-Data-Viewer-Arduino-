@@ -1,0 +1,56 @@
+﻿[
+  {
+    "name": "Увеличить скорость намотки",
+    "color": "White",
+    "serial_macros": "speed up",
+    "parameters": []
+  },
+  {
+    "name": "Уменьшить скорость намотки",
+    "color": "White",
+    "serial_macros": "speed down",
+    "parameters": []
+  },
+  {
+    "name": "Остановить намотку",
+    "color": "Red",
+    "serial_macros": "emerjency stop",
+    "parameters": []
+  },
+  {
+    "name": "кнопка 4",
+    "color": "Yellow",
+    "serial_macros": "button 4",
+    "parameters": []
+  },
+  {
+    "name": "кнопка 5",
+    "color": "Yellow",
+    "serial_macros": "button 5",
+    "parameters": []
+  },
+  {
+    "name": "кнопка 6",
+    "color": "Yellow",
+    "serial_macros": "button 6",
+    "parameters": []
+  },
+  {
+    "name": "команда 1 с парамером",
+    "color": "",
+    "serial_macros": "param1 *?*",
+    "parameters": [ "1", "2", "3" ]
+  },
+  {
+    "name": "команда 2 с парамером",
+    "color": "Red",
+    "serial_macros": "param2 *?*",
+    "parameters": [ "4", "5", "6" ]
+  },
+  {
+    "name": "команда 3 с парамером",
+    "color": "Red",
+    "serial_macros": "param3 *?*",
+    "parameters": [ "7", "8", "9" ]
+  }
+]
