@@ -1,6 +1,5 @@
 Little experience. contains shitty code.
 
-little experience. contains shitty code.
 I'll translate it into English soon
 
 input serial message format
