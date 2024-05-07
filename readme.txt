@@ -38,4 +38,4 @@ input serial message format
 	
 	
 	
- Install-Package -Source C:\Users\1NR_Operator_26\Downloads\ ZedGraph -Scope CurrentUser
+ Install-Package -Source C:\Users\username\Downloads\ ZedGraph -Scope CurrentUser
